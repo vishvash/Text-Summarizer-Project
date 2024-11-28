@@ -1,1 +1,56 @@
 [2024-11-27 19:47:58,667: INFO: main: Welcome to our custom logging]
+[2024-11-28 15:27:28,694: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-28 15:27:28,701: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-28 15:27:28,703: INFO: common: created directory at: artifacts]
+[2024-11-28 15:27:28,706: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-28 15:27:32,264: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 495A:872BB:3F40D:4985C:67483E8A
+Accept-Ranges: bytes
+Date: Thu, 28 Nov 2024 09:57:31 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100026-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1732787851.749110,VS0,VE780
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c48acdbba021783893939023c8c06fc99c4ae11a
+Expires: Thu, 28 Nov 2024 10:02:31 GMT
+Source-Age: 0
+
+]
+[2024-11-28 17:44:28,088: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-28 17:44:28,091: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-28 17:44:28,097: INFO: common: created directory at: artifacts]
+[2024-11-28 17:44:28,103: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-28 17:59:24,626: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-28 17:59:24,628: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-28 17:59:24,634: INFO: common: created directory at: artifacts]
+[2024-11-28 17:59:24,636: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-28 17:59:39,293: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-28 17:59:39,305: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-28 17:59:39,308: INFO: common: created directory at: artifacts]
+[2024-11-28 17:59:39,313: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-28 17:59:42,289: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-28 17:59:42,297: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-28 17:59:42,298: INFO: common: created directory at: artifacts]
+[2024-11-28 17:59:42,302: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-28 18:00:30,033: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-28 18:00:30,039: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-28 18:00:30,044: INFO: common: created directory at: artifacts]
+[2024-11-28 18:00:30,048: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-28 18:00:53,225: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-28 18:00:53,231: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-28 18:00:53,235: INFO: common: created directory at: artifacts]
+[2024-11-28 18:00:53,237: INFO: common: created directory at: artifacts/data_validation]
