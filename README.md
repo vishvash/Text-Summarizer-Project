@@ -48,13 +48,6 @@ open up you local host and port
 ```
 
 
-```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
-
-```
-
 
 
 # AWS-CICD-Deployment-with-Github-Actions
@@ -68,7 +61,6 @@ Email: krishnaik06@gmail.com
 	1. EC2 access : It is virtual machine
 
 	2. ECR: Elastic Container registry to save your docker image in aws
-
 
 	#Description: About the deployment
 
@@ -88,15 +80,13 @@ Email: krishnaik06@gmail.com
 
 	2. AmazonEC2FullAccess
 
-	
 ## 3. Create ECR repo to store/save docker image
+
     - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/text-s
 
-	
 ## 4. Create EC2 machine (Ubuntu) 
 
 ## 5. Open EC2 and Install docker in EC2 Machine:
-	
 	
 	#optinal
 
@@ -115,8 +105,8 @@ Email: krishnaik06@gmail.com
 	newgrp docker
 	
 # 6. Configure EC2 as self-hosted runner:
-    setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
+    setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
 # 7. Setup github secrets:
 
