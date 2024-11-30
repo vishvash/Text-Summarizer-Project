@@ -119,3 +119,6 @@ open up you local host and port
     AWS_ECR_LOGIN_URI = demo>>  970547356228.dkr.ecr.eu-north-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = text-s
+
+# ###############################
+
